@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  SinglePhoto
 //
-//  Created by Lockhart on 2019-01-12.
-//  Copyright © 2019 Lockhart. All rights reserved.
+//  Created by Charina Duenas on 2019-01-12.
+//  Copyright © 2019 Charina Duenas. All rights reserved.
 //
 
 import UIKit
