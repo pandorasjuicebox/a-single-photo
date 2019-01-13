@@ -4,4 +4,6 @@ Art: ['Reign, Pt.2' by Charina Duenas](https://www.deviantart.com/thebrokenmaste
 ___
 **Demos:** 
 - [iPhone 7 Plus](https://i.imgur.com/57DFKhN.gifv)
+- [iPhone XS](https://i.imgur.com/Eo2pjCZ.gifv)
+- [iPad Pro(12.9, 3rd Gen)](https://i.imgur.com/aoTCfFV.gifv)
 
